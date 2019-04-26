@@ -4,9 +4,9 @@
 
 ![](./ScreenShot/WX20190426-160616.png)
 
-##### yarn add react-native-list
+##### yarn add react-native-list-show
 
-##### import List from 'react-native-list'
+##### import List from 'react-native-list-show'
 
 #### demo
 
