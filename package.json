@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ghost60/react-native-list.git"
+    "url": "git+https://github.com/ghost60/react-native-list-show.git"
   },
   "keywords": [
     "react-native-list"
@@ -16,7 +16,7 @@
   "author": "ghost60",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ghost60/react-native-list/issues"
+    "url": "https://github.com/ghost60/react-native-list-show/issues"
   },
-  "homepage": "https://github.com/ghost60/react-native-list#readme"
+  "homepage": "https://github.com/ghost60/react-native-list-show#readme"
 }
